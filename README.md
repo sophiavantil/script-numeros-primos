@@ -10,7 +10,7 @@
 
 # Descrição
 
-Este script Python encontra e armazena todos os números primos entre 2 e 250 no arquivo `results.txt`. Siga as instruções abaixo para executar o script no seu sistema.
+Este script Python encontra e armazena todos os números primos entre 1 e 250 no arquivo `results.txt`. Siga as instruções abaixo para executar o script no seu sistema.
 
 Esse script foi desenvolvido durante o laboratório de Python pela Escola da Nuvem. 
 
