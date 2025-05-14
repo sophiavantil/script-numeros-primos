@@ -6,7 +6,7 @@
 - [Índice](#índice)
 - [Descrição](#descrição)
 - [Requisitos](#requisitos)
-- [Passos para executar o script](#passos_para_executar_o_script)
+- [Passos para Executar o Script](#passos-para-executar-o-script)
 
 # Descrição
 
